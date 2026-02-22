@@ -1,5 +1,11 @@
 Database (phpmyadmin):
 
+
+ADMIN privilige:
+username: root
+password: ""
+
+
 -Tables: 
 
 •	admins(id,username,password)
