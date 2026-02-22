@@ -1,0 +1,8 @@
+Database (phpmyadmin):
+
+-Tables: 
+
+•	admins(id,username,password)
+•	orders(id,user_id,products,total,name,address,phone,created_at)
+•	products(id,name,price,category,gender,image,description)
+•	users(id,username,email,password)
